@@ -40,9 +40,7 @@ The simulations are conducted on two public SSVEP datasets:
 1. **Benchmark Dataset** [1]: 35 subjects, 40 stimuli (8.0–15.8 Hz, 0.2 Hz step), 6 blocks, 250 Hz sampling rate.
 2. **UCSD Dataset** [2]: 10 subjects, 12 stimuli (9.25–14.75 Hz, 0.5 Hz step), 15 blocks, 256 Hz sampling rate.
 
-> **Note**: Due to data-sharing policies, the EEG datasets are **not included** in this repository. Please download them from the official sources:
-> - Benchmark Dataset: http://bci.med.tsinghua.edu.cn/download.html
-> - UCSD Dataset: ftp://sccn.ucsd.edu/pub/cca_ssvep.zip
+> **Note**: Due to data-sharing policies, the EEG datasets are **not included** in this repository. Please download them from the official sources.
 
 After downloading, place the data files in the following structure:
 
