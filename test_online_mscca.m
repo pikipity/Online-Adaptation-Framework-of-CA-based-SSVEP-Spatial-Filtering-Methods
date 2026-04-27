@@ -1,6 +1,9 @@
 clear;clc;
 data_path = 'data/filtered_data';
 save_path = 'test_online_mscca_res';
+if ~exist(save_path, 'dir')
+    mkdir(save_path)
+end
 fs = 250;
 latencyDelay = round(0.14*fs);
 subj_num = 35;
