@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB implementation of the unified online adaptation framework proposed in the paper:
 
-> **Ze Wang, Lu Shen, Xinran Mi, Leqian Cheng, Yi Yang, Boyu Wang, Tzyy-Ping Jung, Feng Wan**, "Unified Online Adaptation Framework for Correlation Analysis-based Spatial Filtering Methods in SSVEP-based BCIs," *IEEE Journal of Biomedical and Health Informatics * (Accepted).
+> **Ze Wang, Lu Shen, Xinran Mi, Leqian Cheng, Yi Yang, Boyu Wang, Tzyy-Ping Jung, Feng Wan**, "Unified Online Adaptation Framework for Correlation Analysis-based Spatial Filtering Methods in SSVEP-based BCIs," *IEEE Journal of Biomedical and Health Informatics* (Accepted).
 
 ## Brief Introduction
 
