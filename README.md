@@ -42,7 +42,7 @@ The simulations are conducted on two public SSVEP datasets:
 
 > **Note**: Due to data-sharing policies, the EEG datasets are **not included** in this repository. Please download them from the official sources:
 > - Benchmark Dataset: http://bci.med.tsinghua.edu.cn/download.html
-> - UCSD Dataset: https://sccn.ucsd.edu/~msmakeig/12FFM_SSVEP.html
+> - UCSD Dataset: ftp://sccn.ucsd.edu/pub/cca_ssvep.zip
 
 After downloading, place the data files in the following structure:
 
